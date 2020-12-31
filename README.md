@@ -1,2 +1,2 @@
-# Dancing--Groot
-AR Dancing Groot
+# Art Demo
+AR Art
